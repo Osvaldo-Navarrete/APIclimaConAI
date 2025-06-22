@@ -20,7 +20,6 @@ function App() {
       return;
     }
 
-
     setWeatherData(null);
     setAdvice(''); //Usamos el useState para quitar el consejo/recomendación anterior en caso de que haya
 
